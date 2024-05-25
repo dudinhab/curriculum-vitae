@@ -1,0 +1,43 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;  
+    color:white;
+}
+body{
+    background-color: rgb(16, 54, 61);
+}
+
+button{
+    background-color: transparent;
+    width:80%;
+    border-radius:17px;
+    height: 60px;
+    margin-left:10%;
+    margin-bottom:40px;
+    border:2px solid #ffffff;
+}
+
+button:hover{
+    transition: 1s;
+    background-color:white;
+    color:rgb(16, 54, 61);
+}
+
+main{
+    width:500px;
+    margin:auto;
+    margin-top:5%;
+}
+
+h1{
+    text-align: left;
+}
+
+.perfil{
+    border-radius:100px;
+    float:right;
+}
+
+.tituloFoto{
+    margin-left:10%;
+    padding-bottom: 3%;
+}
