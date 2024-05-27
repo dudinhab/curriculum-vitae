@@ -7,12 +7,14 @@ nav ul {
     margin: 0;
     padding: 0;
 }
+
 nav ul li {
     display: inline-block;
     position: relative;
 }
+
 nav ul li a {
-    padding:1vh 4vh;
+    padding: 1vh 4vh;
     display: block;
     text-decoration: none;
     color: #ffffff;
@@ -21,7 +23,7 @@ nav ul li a {
 
 nav ul li a:hover {
     background-color: #f0f0f0;
-    color:#000
+    color: #000
 }
 
 nav ul li ul {
@@ -36,7 +38,7 @@ nav ul li:hover ul {
 }
 
 nav ul li ul li {
-    display:inline-block;
+    display: inline-block;
 }
 
 nav ul li ul li a {
@@ -51,8 +53,8 @@ nav ul li ul li a:hover {
     background-color: #f0f0f0;
 }
 
-.sub{
-    margin-top:-10px;
+.sub {
+    margin-top: -10px;
 }
 
 
@@ -64,26 +66,26 @@ nav ul li ul li a:hover {
     background-color: #000;
 }
 
-.menu ul{
-    margin-top:3vh;
+.menu ul {
+    margin-top: 3vh;
 }
 
 .menu ul li {
     text-decoration: none;
-    float:right;
+    float: right;
     padding: 0vh 5vh;
 }
 
 
-.Oct{
-    width:10vh;
-    float:left;
+.Oct {
+    width: 10vh;
+    float: left;
 }
 
-.contentMenu{
+.contentMenu {
     height: 10vh;
     margin: auto;
-    padding:1vh 20vh;
+    padding: 1vh 20vh;
 }
 
 /* body */
@@ -101,7 +103,7 @@ body {
 
 .absoluta {
     background-color: rgba(7, 112, 131, 0.377);
-    padding-bottom:1vh;
+    padding-bottom: 1vh;
 }
 
 /* content */
@@ -109,7 +111,7 @@ body {
 .curriculo {
     color: white;
     padding: 2%;
-    margin:3vh auto ;
+    margin: 3vh auto;
     width: 80%;
     height: 80%;
     background-color: rgba(0, 0, 0, 0.884);
@@ -131,7 +133,7 @@ body {
     padding-bottom: 2vh;
 }
 
-.descriptionJob{
+.descriptionJob {
     text-align: justify;
 }
 
@@ -153,14 +155,14 @@ h2 {
     font-size: 4vh;
 }
 
-h3{
-    font-size:3vh;
+h3 {
+    font-size: 3vh;
     font-weight: 100;
 }
 
-.dateJob{
-    border-bottom:0.1vh #919191 solid;
-    font-size:2vh;
+.dateJob {
+    border-bottom: 0.1vh #919191 solid;
+    font-size: 2vh;
 }
 
 /*Tables*/
